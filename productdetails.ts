@@ -1,0 +1,6 @@
+class prod{
+
+    private data() {
+        
+    }
+}
